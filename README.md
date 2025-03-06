@@ -73,7 +73,7 @@ Die App läuft dann unter `http://localhost:8501/`
 Diese Software wird unter der **MIT-Lizenz** veröffentlicht. Sie darf frei verwendet, verändert und weitergegeben werden.
 
 ## 🤝 Mitwirkende
-- **CipherCore** | [Website](https://github.com/CipherCorePro)
+- **CipherCore** | [Website](https://ciphercore.de)
 - **Ralf Krümmel** (Autor des Buchs *Die Kunst des Prompting*) | [Website](https://github.com/kruemmel-python)
 
 ## 📬 Kontakt
