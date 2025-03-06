@@ -74,7 +74,7 @@ Diese Software wird unter der **MIT-Lizenz** veröffentlicht. Sie darf frei verw
 
 ## 🤝 Mitwirkende
 - **CipherCore** | [Website](https://github.com/CipherCorePro)
-- **Ralf Krümmel** (Autor des Buchs *Die Kunst des Prompting*)
+- **Ralf Krümmel** (Autor des Buchs *Die Kunst des Prompting*) | [Website](https://github.com/kruemmel-python)
 
 ## 📬 Kontakt
 Bei Fragen oder Vorschlägen:
